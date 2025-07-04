@@ -20,11 +20,10 @@ bash basic.sh
 Medium recon (Level-2)
 ```bash
 bash medium.sh
-# Output: jsfiles.txt, secret-js.txt, gf-xss.txt, gf-ssrf.txt, gf-redirect.txt
-endpoints.txt headers.txt.
+# Output: jsfiles.txt, secret-js.txt, gf-xss.txt, gf-ssrf.txt, gf-redirect.txt, endpoints.txt headers.txt.
 ```
 Advanced recon (Level-3)
 ```bash
 bash advanced.sh
-# Output: deep-endpoints.txt, dalfox-xss.txt, cors-headers.txt
+# Output: deep-endpoints.txt, dalfox-xss.txt, cors-headers.txt.
 ```
