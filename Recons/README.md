@@ -1,7 +1,6 @@
 ## Bug Bounty Recons
 This is automated shell script for recon for bug bounty. This works in structured format. This format takes input from targets.txt file.
 
----
 
 ## Step-by-Step Method
 
